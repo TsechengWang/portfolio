@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
-
 body {
   font-style: normal;
   line-height: 1.5;
@@ -25,7 +24,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: '中黑體(P)-UN';
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -13062,31 +13061,29 @@ body {
 .cid-r7prVH7Axk B {
   color: #cebfaf;
 }
-.cid-r7oXwJ5OaO {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-r7pGQLZxuU {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
 }
-.cid-r7oXwJ5OaO h3 {
-  text-align: center;
+.cid-r7pGQLZxuU h4 {
+  text-align: left;
+  font-weight: 500;
 }
-.cid-r7oXwJ5OaO .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-r7oXwJ5OaO .mbr-content-text {
+.cid-r7pGQLZxuU p {
   color: #767676;
   text-align: left;
 }
-.cid-r7oXwJ5OaO .panel-item {
-  background: #ffffff;
+.cid-r7pGQLZxuU .card-img {
+  text-align: left;
 }
-.cid-r7oXwJ5OaO .card {
-  word-wrap: break-word;
+.cid-r7pGQLZxuU .card-img span {
+  font-size: 72px;
+  color: #707070;
 }
-.cid-r7oXwJ5OaO .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
+.cid-r7pGQLZxuU .card-title,
+.cid-r7pGQLZxuU .card-img {
+  text-align: center;
 }
 .cid-r7pscOOpdU {
   padding-top: 15px;
@@ -13099,31 +13096,29 @@ body {
 .cid-r7pscOOpdU B {
   color: #cebfaf;
 }
-.cid-r7oZZi0RHk {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-r7pHFTDFYz {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
 }
-.cid-r7oZZi0RHk h3 {
-  text-align: center;
+.cid-r7pHFTDFYz h4 {
+  text-align: left;
+  font-weight: 500;
 }
-.cid-r7oZZi0RHk .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-r7oZZi0RHk .mbr-content-text {
+.cid-r7pHFTDFYz p {
   color: #767676;
   text-align: left;
 }
-.cid-r7oZZi0RHk .panel-item {
-  background: #ffffff;
+.cid-r7pHFTDFYz .card-img {
+  text-align: left;
 }
-.cid-r7oZZi0RHk .card {
-  word-wrap: break-word;
+.cid-r7pHFTDFYz .card-img span {
+  font-size: 72px;
+  color: #707070;
 }
-.cid-r7oZZi0RHk .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
+.cid-r7pHFTDFYz .card-title,
+.cid-r7pHFTDFYz .card-img {
+  text-align: center;
 }
 .cid-r7oC6B3BHE {
   padding-top: 60px;
